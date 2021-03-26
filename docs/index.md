@@ -33,7 +33,7 @@ Folk. Om enn de er konsumenter eller utviklere, sluttbrukerne av programvare er 
 - Utgivelsesdatoen for hver versjon vises.
 - Nevn hvorvidt du følger [Semantisk Versjonering](https://semver.org/).
 
-#### endringer
+#### Endringer
 
 - `Lagt til` for ny funksjonalitet.
 - `Endret` for endringer i eksisterende funksjonalitet.
