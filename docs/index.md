@@ -7,6 +7,8 @@ version: 1.1.0
 
 # Lag en Endringslogg
 
+Fra [keep a changelog](https://github.com/olivierlacan/keep-a-changelog) `nb_NO` [v1.1.0](https://github.com/olivierlacan/keep-a-changelog/pull/383).
+
 ## Ikke la vennene dine dumpe git logger i endringslogger.
 
 ### Hva er en endringslogg?
