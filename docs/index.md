@@ -9,7 +9,7 @@ version: 1.1.0
 
 Fra [keep a changelog](https://github.com/olivierlacan/keep-a-changelog) `nb_NO` [v1.1.0](https://github.com/olivierlacan/keep-a-changelog/pull/383).
 
-## Ikke la vennene dine dumpe git logger i endringslogger.
+## Ikke la vennene dine dumpe git-logger i endringslogger.
 
 ### Hva er en endringslogg?
 
@@ -44,7 +44,7 @@ Folk. Om enn de er konsumenter eller utviklere, sluttbrukerne av programvare er 
 - `Fikset` for feilrettinger.
 - `Sikkerhet` i tilfelle sårbarheter.
 
-### Hvorfor kan jeg redusere innsatsen som må til for å vedlikeholde en endringslogg?
+### Hvordan kan jeg redusere innsatsen som må til for å vedlikeholde en endringslogg?
 
 Bruk en `Ikke utgitt`-seksjon øverst for å spore kommende endringer.
 
@@ -127,12 +127,4 @@ Det er også mulig at du oppdager at du glemte å addressere en sentral endring 
 
 #### Hvordan kan jeg bidra?
 
-Dette dokumentet er ikke **sannheten**; det er min nøye vurderte mening, samt informasjon og eksempler jeg har samlet.
-
-Dette fordi jeg vil at vårt miljø skal nå en enighet. Jeg tror at diskusjonen er like viktig som resultatet.
-
-Så vær så snill, **[bidra](https://github.com/olivierlacan/keep-a-changelog)**.
-
-### Samtaler
-
-Jeg deltok på [The Changelog podcast](https://changelog.com/podcast/127) for å snakke om hvorfor vedlikeholdere og bidragsytere burde bry seg om endringslogger, og også om motivasjonene bak dette prosjektet.
+**[Bidra](https://github.com/olivierlacan/keep-a-changelog)**.
